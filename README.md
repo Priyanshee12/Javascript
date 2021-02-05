@@ -98,6 +98,49 @@
   
   # Mathematical Operators
   
+  Addition +,
+  Subtraction -,
+  Multiplication *,
+  Division /,
+  Remainder %,
+  Exponentiation **.
+  
+  are the matheatical operators
+  
+  
+  
+  # String concatanaiton with binary +
+  With the binary + operator can concate two strings and both string should be in " "(Double qoutes) ot  ' '(single quotes).
+  
+    let s = "my" + "string";
+    alert(s); // mystring
+    
+    
+ # BitwiseAND ( & )
+  1. OR ( | )
+  2. XOR ( ^ )
+  3. NOT ( ~ )
+  4. LEFT SHIFT ( << )
+  5. RIGHT SHIFT ( >> )
+  6. ZERO-FILL RIGHT SHIFT ( >>> ) operator   
+  
+  ### Comma operator
+  The comma operator allows us to evaluate several expressions, dividing them with a comma ,. Each of them is evaluated but only the result of the last one is returned.
+    
+      let a = (1 + 2, 3 + 4);
+      alert( a ); // 7 (the result of 3 + 4)
+      
+      
+  # Comparison operator
+  
+  1. Greater/less than: a > b, a < b.
+    It will check greater element
+  2. Greater/less than or equals: a >= b, a <= b.
+    it will check greater than or equal element.
+  3. Equals: a == b
+    it will check both elements are equal or not
+  4. Not equals. In maths the notation is ≠, but in JavaScript it’s written as a != b.
+    it will check both elements are not equal.
 
 
 
