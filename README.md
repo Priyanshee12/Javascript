@@ -57,8 +57,8 @@
   ## undefiened
    The meaning of undefined is “value is not assigned”.
    If a variable is declared, but not assigned, then its value is undefined.
-  ## Object can store multiple values in it.
-  ## Symbol type is used to create unique identifiers for objects.  
+  Object can store multiple values in it.
+  
   ## Typeof
    Using typeof we can check datatype of argument.
           Typeof 10;
